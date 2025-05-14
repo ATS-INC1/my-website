@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Company Name</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">YourLogo</div>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="#">Shippers</a></li>
+        <li><a href="#">Carriers</a></li>
+        <li><a href="#">Learning Hub</a></li>
+        <li><a href="#">Price Info</a></li>
+        <li><a href="#">Careers</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+    <a href="#" class="btn-contact">Contact Us</a>
+  </header>
+
+  <section class="hero">
+    <h1>Helping People Succeed</h1>
+    <p>
+      Whether you're shipping freight or hauling it, transportation and logistics is complex. We're here to make your job easier.
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
